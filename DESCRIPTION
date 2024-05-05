@@ -1,8 +1,7 @@
 Package: mxsem
 Type: Package
 Title: Specify 'OpenMx' Models with a 'lavaan'-Style Syntax
-Version: 0.0.8
-Date: 2023-10-03
+Version: 0.0.9
 Authors@R: c(person(given   = "Jannik H.", family = "Orzek",
                     role    = c("aut", "cre", "cph"),
                     email   = "jannik.orzek@mailbox.org",
@@ -23,8 +22,8 @@ Config/testthat/edition: 3
 URL: https://jhorzek.github.io/mxsem/
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2023-10-03 13:58:19 UTC; jannik
+Packaged: 2024-05-05 16:49:00 UTC; jannik
 Author: Jannik H. Orzek [aut, cre, cph]
     (<https://orcid.org/0000-0002-3123-2248>)
 Repository: CRAN
-Date/Publication: 2023-10-03 15:40:03 UTC
+Date/Publication: 2024-05-05 17:20:02 UTC
