@@ -1,7 +1,7 @@
 Package: mxsem
 Type: Package
 Title: Specify 'OpenMx' Models with a 'lavaan'-Style Syntax
-Version: 0.0.9
+Version: 0.1.0
 Authors@R: c(person(given   = "Jannik H.", family = "Orzek",
                     role    = c("aut", "cre", "cph"),
                     email   = "jannik.orzek@mailbox.org",
@@ -15,15 +15,16 @@ License: GPL (>= 3)
 Depends: OpenMx
 Imports: Rcpp (>= 1.0.10), stats, methods, dplyr, utils
 LinkingTo: Rcpp
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.1
 Encoding: UTF-8
-Suggests: testthat (>= 3.0.0), lavaan, knitr, rmarkdown
-Config/testthat/edition: 3
-URL: https://jhorzek.github.io/mxsem/
+Suggests: knitr, rmarkdown
+URL: https://jhorzek.github.io/mxsem/,
+        https://github.com/jhorzek/mxsem/
+BugReports: https://github.com/jhorzek/mxsem/issues
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2024-05-05 16:49:00 UTC; jannik
+Packaged: 2024-07-28 11:57:02 UTC; jannik
 Author: Jannik H. Orzek [aut, cre, cph]
     (<https://orcid.org/0000-0002-3123-2248>)
 Repository: CRAN
-Date/Publication: 2024-05-05 17:20:02 UTC
+Date/Publication: 2024-07-28 16:50:06 UTC
